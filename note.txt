@@ -1,0 +1,12 @@
+Array it self a object
+
+variable type = const, let, var, 
+and datatype 
+
+** 3 type varibale 
+  1) const, 2) let 3) var
+
+  var variable progmme er jekon jaigai use kora jaigai
+
+  const is scope define and not changeable
+  let is scopr defined but dynamically changeable
